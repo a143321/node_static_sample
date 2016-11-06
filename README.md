@@ -12,7 +12,7 @@
 
 3. 任意のフォルダに移動して``node index.js``コマンドを入力
 
-5. [http://localhost:8080/images/test.jpg](http://localhost:8080/test.jpg) にアクセスする。
+5. [http://localhost:8080/images/test.jpg](http://localhost:8080/images/test.jpg) にアクセスする。
 
 画像が表示されればOKです。
 publicフォルダのimagesフォルダのtest.jpgを表示します。
